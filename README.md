@@ -25,4 +25,4 @@ API serach parameters include:
 
 `noaa_temp_scraper`
 
-The code uses the base url for NOAA's "Climate at a Glance" API structure, sets the time frame to 1925-present and loops through the list of state codes and search parameters to pull monthly maximum and minimum temperature values. It then saves it to a JSON file organized by state and temperature category:maximum temperature and minimum temperature.
+The code uses the base url for NOAA's "Climate at a Glance" API structure, sets the time frame to 1925-present and loops through the list of state codes and search parameters to pull monthly maximum and minimum temperature values. It then saves it to a JSON file organized by state and temperature category: maximum temperature and minimum temperature.
